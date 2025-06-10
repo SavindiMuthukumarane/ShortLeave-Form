@@ -1,2 +1,6 @@
 # ShortLeave-Form
-Using Windows Forms App(.NET Framework)
+Techonologies used:
+
+C# -Using Windows Forms App(.NET Framework)
+MS Access (Database)
+Compose Mail for mail notification
