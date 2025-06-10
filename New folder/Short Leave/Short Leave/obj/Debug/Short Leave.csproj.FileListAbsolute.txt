@@ -1,0 +1,20 @@
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\bin\Debug\Short Leave.exe.config
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\bin\Debug\Short Leave.exe
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\bin\Debug\Short Leave.pdb
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short Leave.csproj.AssemblyReference.cache
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short_Leave.Form1.resources
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short_Leave.Properties.Resources.resources
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short Leave.csproj.GenerateResource.cache
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short Leave.csproj.CoreCompileInputs.cache
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short Leave.exe
+C:\Users\savin\OneDrive - NSBM\Attachments\Short Leave\Short Leave\obj\Debug\Short Leave.pdb
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\bin\Debug\Short Leave.exe.config
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\bin\Debug\Short Leave.exe
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\bin\Debug\Short Leave.pdb
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short Leave.csproj.AssemblyReference.cache
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short_Leave.Form1.resources
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short_Leave.Properties.Resources.resources
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short Leave.csproj.GenerateResource.cache
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short Leave.csproj.CoreCompileInputs.cache
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short Leave.exe
+C:\Users\savin\OneDrive - NSBM\Attachments\New folder\Short Leave\Short Leave\obj\Debug\Short Leave.pdb
